@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu+Condensed&display=swap');
+body {
+    font-family: 'Ubuntu Condensed', sans-serif;
+}
+@media screen and (max-width: 900px) {
+.bottom-main-menu {
+    overflow: hidden;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
+}
