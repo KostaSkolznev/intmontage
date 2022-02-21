@@ -10,3 +10,23 @@ body {
     width: 100%;
 }
 }
+body {
+  background-image: url(https://interior-montage.ru/wp-content/uploads/2022/02/Интерьер-Монтаж.jpg);
+  background-repeat: no-repeat;
+  background-size: contain;
+}
+.site-header {
+  background-color: rgba(255, 255, 255, 0.7);
+}
+.content-area, .widget-area {
+  background-color: rgba(255, 255, 255, 0.7);
+  border-radius: 5px;
+}
+.product {
+  background-color: rgba(250, 250, 250, 0.8);
+}
+ul.products li.product {
+	width: 24%;
+	float: left;
+	font-size: 0.7em;
+}
